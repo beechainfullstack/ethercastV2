@@ -1,0 +1,14 @@
+# root
+node_modules
+.env
+.env.*
+
+# web
+web/.next
+web/node_modules
+web/.env.local
+
+# contracts
+contracts/node_modules
+artifacts
+cache
